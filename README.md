@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kazybekkh
+- 👋 Hi, I’m @Kazybek
 - 👀 I’m interested in Computer Science, software engineering to be specific
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on 
