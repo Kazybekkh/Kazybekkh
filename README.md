@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kazybek
-- 👀 I’m interested in Computer Science, software engineering to be specific
+- 👀 I’m interested in Computer engineering, robotics to be more specific and passionate about circuitry projects such as Arduino
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on projects that include Python, HTML&CSS, JavaScript
+- 💞️ I’m looking to collaborate on projects that include Python, Java
 - 📫 How to reach me (kazybekkhairulla@gmail.com)
 
 <!---
