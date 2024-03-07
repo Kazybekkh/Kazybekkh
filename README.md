@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kazybek
-- IB Student at Nexus International High School in Singapore
+- 2nd Year IBDP Student Singapore
 - HackClub leader at Nexus Singapore
 - 👀 I’m interested in Computer engineering, robotics to be more specific and passionate about circuitry projects such as Arduino
 - 🌱 $O(log(N))$ is good...but $O(1)$ is better
