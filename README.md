@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Kazybek
+- Lived in 🇰🇿 | 🇸🇬 | 🇬🇧
 - 1st Year BSc `Computer Science` Student at University of Exeter in the (UK)
 - Ex `HackClub` leader at Nexus International School Singapore
 - 👀 I’m interested in `Computer Science` & `Engineering`, in particular `Robotics and AI`
