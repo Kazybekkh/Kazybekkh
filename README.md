@@ -1,5 +1,4 @@
-- 👋 Hi there!, I’m @Kazybek (🇰🇿 | 🇸🇬)
-- Penultimate Year `Computer Science` Student at University of Exeter in the (UK)
+- 👋 Hi there!, I’m @Kazybek (🇰🇿 | 🇸🇬), I'm Penultimate Year `Computer Science` Student at University of Exeter in the (UK)
 - I'm interested in Autonomous Driving, Robotics and Artificial Intelligence
 
 <!---
