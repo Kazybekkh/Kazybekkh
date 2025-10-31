@@ -1,6 +1,6 @@
 👋 Hi there!, I’m @Kazybek
 I'm interested in Autonomous Driving, Robotics and Artificial Intelligence.
-I'm Penultimate Year `Computer Science` Student at University of Exeter in the (UK), where I'm currently learning about Software Development practices, Design Patterns, Functional Programming, Networks and Computer Architecture. But in my own time, I learn C++, Gazebo, Electronics for Robotics
+I'm Penultimate Year `Computer Science` Student in the UK, where I'm currently learning about Software Development practices, Design Patterns, Functional Programming, Networks and Computer Architecture. But in my own time, I learn C++, Gazebo, Electronics for Robotics
 
 ### Current Skills
 <p align="left">
