@@ -1,4 +1,4 @@
-👋 Hi there!, I’m @Kazybek
+👋 Hi there!, I’m @Kazybek(Kazy)
 
 I'm into in **Robotics**, **Drones** and **Artificial Intelligence**.
 
