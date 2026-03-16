@@ -11,6 +11,7 @@ I'm a Penultimate Year `Computer Science` Student in the UK, where I'm currently
 
 In my own time, I learn **C++**, **ROS/ROS2**, **Isaac Sim** and **Electronics for Robotics**.
 
+Proficient in Python and Java, comfortable with C++
 ---
 
 ### 🌐 Socials
