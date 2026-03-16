@@ -9,7 +9,7 @@ I'm a Penultimate Year `Computer Science` Student in the UK, where I'm currently
 *   Networks & Security
 *   Computer Architecture & Operating Systems
 
-In my own time, I learn **C/C++**, **ROS/ROS2**, **Isaac Sim** and **Electronics for Robotics**.
+In my own time, I learn **C++**, **ROS/ROS2**, **Isaac Sim** and **Electronics for Robotics**.
 
 ---
 
