@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="HACK-69.jpg" alt="Building at a hackathon" width="100%" />
+  <img src="cover.jpg" alt="Building at a hackathon" width="100%" />
 </p>
 
 👋 Hi there!, I’m @Kazybek(Kazy)
