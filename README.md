@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="HACK-69.jpg" alt="Building at a hackathon" width="100%" />
+</p>
+
 👋 Hi there!, I’m @Kazybek(Kazy)
 
 I'm into in **Robotics**, **Drones** and **Artificial Intelligence**.
