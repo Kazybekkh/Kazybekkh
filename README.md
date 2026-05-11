@@ -4,11 +4,11 @@
 
 👋 Hey, I'm **Kazybek (Kazy)**
 
-I'm passionate about **AR/VR**, **robotics**, and **AI** — and I love tinkering at the intersection of all three.
+I'm into **AR/VR**, **robotics**, and **AI** — and I love tinkering at the intersection of all three.
 
 CS student in the UK. In my own time I mess around with **C++**, **ROS/ROS2**, **NVIDIA Isaac Sim**, and microcontrollers (such as **Raspberry Pi** and **ESP-32**).
 
-I show up to hackathons a lot, build side projects when I should be revising, and read too much about startups for someone who isn't running one.
+Currently: hackathons on weekends, robots on weeknights, and reading about startups in between.
 
 ---
 
