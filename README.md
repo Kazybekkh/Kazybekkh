@@ -2,7 +2,7 @@
   <img src="cover.jpg" alt="Building at a hackathon" width="100%" />
 </p>
 
-👋 Hi there!, I’m @Kazybek(Kazy)
+👋 Hi there!, I’m **Kazybek(Kazy)**
 
 I'm into in **Robotics**, **Drones** and **Artificial Intelligence**.
 
