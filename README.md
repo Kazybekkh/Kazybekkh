@@ -4,7 +4,7 @@
 
 👋 Hey, I'm **Kazybek (Kazy)**
 
-I build things. Mostly robots, sometimes drones, often with a bit of AI mixed in.
+I'm passionate about **AR/VR**, **robotics**, and **AI** — and I love tinkering at the intersection of all three.
 
 CS student in the UK. In my own time I mess around with **C++**, **ROS/ROS2**, **NVIDIA Isaac Sim**, and microcontrollers (such as **Raspberry Pi** and **ESP-32**).
 
